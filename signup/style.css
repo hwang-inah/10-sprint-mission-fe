@@ -1,0 +1,21 @@
+
+.signup-box {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+}
+
+.login {
+  text-align: center;
+  color: #1f2937;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 24px;
+}
+
+.login-link {
+  color: #3692ff;
+  font-size: 14px;
+  font-weight: 500;
+}
